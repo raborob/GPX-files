@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="32.726306000000001" minlon="132.519027999999992" maxlat="34.359777999999999" maxlon="134.606500000000011"/></metadata>                
+<wpt lat="34.159444" lon="134.503">
+  <name>Temple Number 1 - Ryōzenji (霊山寺)</name>
+</wpt>
+<wpt lat="34.156028" lon="134.49025">
+  <name>Temple Number 2 - Gokurakuji (極楽寺)</name>
+</wpt>
+<wpt lat="34.147278" lon="134.468278">
+  <name>Temple Number 3 - Konsenji (金泉寺)</name>
+</wpt>
+<wpt lat="34.1515" lon="134.431167">
+  <name>Temple Number 4 - Dainichiji (大日寺)</name>
+</wpt>
+<wpt lat="34.137167" lon="134.432361">
+  <name>Temple Number 5 - Jizōji (地蔵寺)</name>
+</wpt>
+<wpt lat="34.118111" lon="134.388361">
+  <name>Temple Number 6 - Anrakuji (安楽寺)</name>
+</wpt>
+<wpt lat="34.120444" lon="134.378306">
+  <name>Temple Number 7 - Jūrakuji (十楽寺)</name>
+</wpt>
+<wpt lat="34.122889" lon="134.340056">
+  <name>Temple Number 8 - Kumataniji (熊谷寺)</name>
+</wpt>
+<wpt lat="34.104222" lon="134.333417">
+  <name>Temple Number 9 - Hōrinji (法輪寺)</name>
+</wpt>
+<wpt lat="34.107528" lon="134.304056">
+  <name>Temple Number 10 - Kirihataji (切幡寺)</name>
+</wpt>
+<wpt lat="34.0515" lon="134.348528">
+  <name>Temple Number 11 - Fujiidera (藤井寺)</name>
+</wpt>
+<wpt lat="33.984972" lon="134.310639">
+  <name>Temple Number 12 - Shōzanji (焼山寺)</name>
+</wpt>
+<wpt lat="34.038222" lon="134.462806">
+  <name>Temple Number 13 - Dainichiji (大日寺)</name>
+</wpt>
+<wpt lat="34.050333" lon="134.475667">
+  <name>Temple Number 14 - Jōrakuji (常楽寺)</name>
+</wpt>
+<wpt lat="34.055778" lon="134.473333">
+  <name>Temple Number 15 - Kokubunji (国分寺)</name>
+</wpt>
+<wpt lat="34.068528" lon="134.474222">
+  <name>Temple Number 16 - Kan'onji (観音寺)</name>
+</wpt>
+<wpt lat="34.085194" lon="134.485528">
+  <name>Temple Number 17 - Idoji (井戸寺)</name>
+</wpt>
+<wpt lat="33.986" lon="134.578">
+  <name>Temple Number 18 - Onzanji (恩山寺)</name>
+</wpt>
+<wpt lat="33.967944" lon="134.6065">
+  <name>Temple Number 19 - Tatsueji (立江寺)</name>
+</wpt>
+<wpt lat="33.913806" lon="134.505444">
+  <name>Temple Number 20 - Kakurinji (鶴林寺)</name>
+</wpt>
+<wpt lat="33.881861" lon="134.520583">
+  <name>Temple Number 21 - Tairyūji (太竜寺)</name>
+</wpt>
+<wpt lat="33.852194" lon="134.582333">
+  <name>Temple Number 22 - Byōdōji (平等寺)</name>
+</wpt>
+<wpt lat="33.732444" lon="134.527472">
+  <name>Temple Number 23 - Yakuōji (薬王寺)</name>
+</wpt>
+<wpt lat="33.24925" lon="134.175917">
+  <name>Temple Number 24 - Hotsumisakiji (最御崎寺)</name>
+</wpt>
+<wpt lat="33.28825" lon="134.148472">
+  <name>Temple Number 25 - Shinshōji (津照寺)</name>
+</wpt>
+<wpt lat="33.30725" lon="134.122583">
+  <name>Temple Number 26 - Kongōchōji (金剛頂寺)</name>
+</wpt>
+<wpt lat="33.467639" lon="133.974722">
+  <name>Temple Number 27 - Kōnomineji (神峰寺)</name>
+</wpt>
+<wpt lat="33.577778" lon="133.705556">
+  <name>Temple Number 28 - Dainichiji (大日寺)</name>
+</wpt>
+<wpt lat="33.598889" lon="133.640278">
+  <name>Temple Number 29 - Kokubunji (国分寺)</name>
+</wpt>
+<wpt lat="33.591944" lon="133.577889">
+  <name>Temple Number 30 - Zenrakuji (善楽寺)</name>
+</wpt>
+<wpt lat="33.546639" lon="133.577472">
+  <name>Temple Number 31 - Chikurinji (竹林寺)</name>
+</wpt>
+<wpt lat="33.526694" lon="133.611694">
+  <name>Temple Number 32 - Zenjibuji (禅師峰寺)</name>
+</wpt>
+<wpt lat="33.500833" lon="133.543056">
+  <name>Temple Number 33 - Sekkeiji (雪蹊寺)</name>
+</wpt>
+<wpt lat="33.492056" lon="133.487694">
+  <name>Temple Number 34 - Tanemaji (種間寺)</name>
+</wpt>
+<wpt lat="33.512556" lon="133.409361">
+  <name>Temple Number 35 - Kiyotakiji (清滝寺)</name>
+</wpt>
+<wpt lat="33.426056" lon="133.451083">
+  <name>Temple Number 36 - Shōryūji (青竜寺)</name>
+</wpt>
+<wpt lat="33.208111" lon="133.134667">
+  <name>Temple Number 37 - Iwamotoji (岩本寺)</name>
+</wpt>
+<wpt lat="32.726306" lon="133.0185">
+  <name>Temple Number 38 - Kongōfukuji (金剛福寺)</name>
+</wpt>
+<wpt lat="32.961194" lon="132.774222">
+  <name>Temple Number 39 - Enkōji (延光寺)</name>
+</wpt>
+<wpt lat="32.964639" lon="132.564167">
+  <name>Temple Number 40 - Kanjizaiji (観自在寺)</name>
+</wpt>
+<wpt lat="33.295222" lon="132.598222">
+  <name>Temple Number 41 - Ryūkōji (竜光寺)</name>
+</wpt>
+<wpt lat="33.310278" lon="132.582194">
+  <name>Temple Number 42 - Butsumokuji (佛木寺)</name>
+</wpt>
+<wpt lat="33.369083" lon="132.519028">
+  <name>Temple Number 43 - Meisekiji (明石寺)</name>
+</wpt>
+<wpt lat="33.661028" lon="132.911583">
+  <name>Temple Number 44 - Daihōji (大宝寺)</name>
+</wpt>
+<wpt lat="33.659028" lon="132.98125">
+  <name>Temple Number 45 - Iwayaji (岩屋寺)</name>
+</wpt>
+<wpt lat="33.753556" lon="132.818861">
+  <name>Temple Number 46 - Jōruriji (浄瑠璃寺)</name>
+</wpt>
+<wpt lat="33.758056" lon="132.813028">
+  <name>Temple Number 47 - Yasakaji (八坂寺)</name>
+</wpt>
+<wpt lat="33.793611" lon="132.813667">
+  <name>Temple Number 48 - Sairinji (西林寺)</name>
+</wpt>
+<wpt lat="33.816806" lon="132.807917">
+  <name>Temple Number 49 - Jōdoji (浄土寺)</name>
+</wpt>
+<wpt lat="33.827778" lon="132.805028">
+  <name>Temple Number 50 - Hantaji (繁多寺)</name>
+</wpt>
+<wpt lat="33.847889" lon="132.796472">
+  <name>Temple Number 51 - Ishiteji (石手寺)</name>
+</wpt>
+<wpt lat="33.885028" lon="132.715028">
+  <name>Temple Number 52 - Taizanji (太山寺)</name>
+</wpt>
+<wpt lat="33.891778" lon="132.739694">
+  <name>Temple Number 53 - Enmyōji (円明寺)</name>
+</wpt>
+<wpt lat="34.066833" lon="132.964028">
+  <name>Temple Number 54 - Enmeiji (延命寺)</name>
+</wpt>
+<wpt lat="34.06825" lon="132.995333">
+  <name>Temple Number 55 - Nankōbō (南光坊)</name>
+</wpt>
+<wpt lat="34.050278" lon="132.974722">
+  <name>Temple Number 56 - Taisanji (泰山寺)</name>
+</wpt>
+<wpt lat="34.029472" lon="132.978583">
+  <name>Temple Number 57 - Eifukuji (栄福寺)</name>
+</wpt>
+<wpt lat="34.013222" lon="132.977639">
+  <name>Temple Number 58 - Sen'yūji (仙遊寺)</name>
+</wpt>
+<wpt lat="34.026056" lon="133.025361">
+  <name>Temple Number 59 - Kokubunji (国分寺)</name>
+</wpt>
+<wpt lat="33.837611" lon="133.110972">
+  <name>Temple Number 60 - Yokomineji (横峰寺)</name>
+</wpt>
+<wpt lat="33.893528" lon="133.103167">
+  <name>Temple Number 61 - Kōonji (香園寺)</name>
+</wpt>
+<wpt lat="33.897444" lon="133.115056">
+  <name>Temple Number 62 - Hōjuji (宝寿寺)</name>
+</wpt>
+<wpt lat="33.896139" lon="133.129222">
+  <name>Temple Number 63 - Kichijōji (吉祥寺)</name>
+</wpt>
+<wpt lat="33.890361" lon="133.160528">
+  <name>Temple Number 64 - Maegamiji (前神寺)</name>
+</wpt>
+<wpt lat="33.966833" lon="133.586472">
+  <name>Temple Number 65 - Sankakuji (三角寺)</name>
+</wpt>
+<wpt lat="34.034778" lon="133.723194">
+  <name>Temple Number 66 - Unpenji (雲辺寺)</name>
+</wpt>
+<wpt lat="34.102472" lon="133.718889">
+  <name>Temple Number 67 - Daikōji (大興寺)</name>
+</wpt>
+<wpt lat="34.134361" lon="133.647278">
+  <name>Temple Number 68 - Jinnein (神恵院)</name>
+</wpt>
+<wpt lat="34.1345" lon="133.647639">
+  <name>Temple Number 69 - Kan'onji (観音寺)</name>
+</wpt>
+<wpt lat="34.139722" lon="133.694139">
+  <name>Temple Number 70 - Motoyamaji (本山寺)</name>
+</wpt>
+<wpt lat="34.229944" lon="133.7245">
+  <name>Temple Number 71 - Iyadaniji (弥谷寺)</name>
+</wpt>
+<wpt lat="34.223444" lon="133.750167">
+  <name>Temple Number 72 - Mandaraji (曼荼羅寺)</name>
+</wpt>
+<wpt lat="34.219278" lon="133.750111">
+  <name>Temple Number 73 - Shusshakaji (出釈迦寺)</name>
+</wpt>
+<wpt lat="34.233222" lon="133.765806">
+  <name>Temple Number 74 - Kōyamaji (甲山寺)</name>
+</wpt>
+<wpt lat="34.225111" lon="133.774139">
+  <name>Temple Number 75 - Zentsūji (善通寺)</name>
+</wpt>
+<wpt lat="34.250083" lon="133.780972">
+  <name>Temple Number 76 - Konzōji (金倉寺)</name>
+</wpt>
+<wpt lat="34.276806" lon="133.762722">
+  <name>Temple Number 77 - Dōryūji (道隆寺)</name>
+</wpt>
+<wpt lat="34.306722" lon="133.824639">
+  <name>Temple Number 78 - Gōshōji (郷照寺)</name>
+</wpt>
+<wpt lat="34.310944" lon="133.883">
+  <name>Temple Number 79 - Tennōji (天皇寺)</name>
+</wpt>
+<wpt lat="34.303306" lon="133.94425">
+  <name>Temple Number 80 - Kokubunji (国分寺)</name>
+</wpt>
+<wpt lat="34.334417" lon="133.927139">
+  <name>Temple Number 81 - Shiromineji (白峯寺)</name>
+</wpt>
+<wpt lat="34.344417" lon="133.960639">
+  <name>Temple Number 82 - Negoroji (根香寺)</name>
+</wpt>
+<wpt lat="34.286667" lon="134.026556">
+  <name>Temple Number 83 - Ichinomiyaji (一宮寺)</name>
+</wpt>
+<wpt lat="34.357806" lon="134.100944">
+  <name>Temple Number 84 - Yashimaji (屋島寺)</name>
+</wpt>
+<wpt lat="34.359778" lon="134.140139">
+  <name>Temple Number 85 - Yakuriji (八栗寺)</name>
+</wpt>
+<wpt lat="34.324333" lon="134.179667">
+  <name>Temple Number 86 - Shidoji (志度寺)</name>
+</wpt>
+<wpt lat="34.266806" lon="134.171778">
+  <name>Temple Number 87 - Nagaoji (長尾寺)</name>
+</wpt>
+<wpt lat="34.190944" lon="134.207139">
+  <name>Temple Number 88 - Ōkuboji (大窪寺)</name>
+</wpt>
+</gpx>
